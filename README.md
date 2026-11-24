@@ -2,7 +2,7 @@
 
 [PullMD](https://github.com/AeternaLabsHQ/pullmd) (AGPL-3.0): a self-hosted URL/file → Markdown service for humans and AI agents. Web pages (with a headless-browser fallback), PDFs and Office files, YouTube transcripts and more become clean Markdown with stable share links, over a web UI, a REST + SSE API and an MCP endpoint. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/zObg3u)
 
 ## What this template runs
 | Service | Image | Role |
